@@ -81,7 +81,7 @@ MSE (sklearn): 14.990291262135969
 
 
 
-## RUSULT : 
+## RESULT : 
 
 
 
