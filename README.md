@@ -1,4 +1,4 @@
-## DATE : 08/09/2026
+## Experiment 3: Ordinary Least Squares (Closed-form) Linear Regression 
 
 
 
